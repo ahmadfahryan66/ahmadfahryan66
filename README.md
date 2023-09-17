@@ -4,6 +4,6 @@ I am **Ryan**, a FrontEnd Engineer proficient in popular frameworks such as Reac
 
 ### Find me
 
-![Linkedin: Ahmad Fahryan](https://img.shields.io/badge/-Ahmad_Fahryan-blue?style=flat&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fahmad-fahryan-46b699a5%2F
+[Linkedin: Ahmad Fahryan](https://img.shields.io/badge/-Ahmad_Fahryan-blue?style=flat&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fahmad-fahryan-46b699a5%2F
 )
 <a href="mailto:ahmadfahryan66@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/-Ahmad_Fahryan-blue?style=flat&logo=gmail&logoColor=white"></a>
