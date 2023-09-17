@@ -4,7 +4,6 @@ I am **Ryan**, a FrontEnd Engineer proficient in popular frameworks such as Reac
 
 ### Find me
 
-[![Linkedin: Ahmad Fahryan](https://img.shields.io/badge/-Bayu%20Setiawan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmad-fahryan-46b699a5/)](https://www.linkedin.com/in/ahmad-fahryan-46b699a5/)
-<a href="mailto:ahmadfahryan66@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bayusetiawanipb-blue?style=flat-square&logo=email"></a>
-[![](https://komarev.com/ghpvc/?username=Bayusetiawan45&color=blue&label=Profile%20Views)](https://github.com/Bayusetiawan45/Bayusetiawan45)
-[![](https://img.shields.io/github/followers/Bayusetiawan45?label=GitHub%20Followers)](https://github.com/Bayusetiawan45)
+[![Linkedin: Ahmad Fahryan](https://img.shields.io/badge/-Ahmad_Fahryan-blue?style=flat-square&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fahmad-fahryan-46b699a5%2F)
+<a href="mailto:ahmadfahryan66@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Ahmad_Fahryan-blue?style=flat&logo=gmail&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fahmad-fahryan-46b699a5%2F
+"></a>
